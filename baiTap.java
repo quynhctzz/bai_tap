@@ -1,6 +1,4 @@
 class GFG {
-    // Reverse the letters
-    // of the word
     static void reverse(char[] str, int start, int end)
     {
       // Temporary variable
