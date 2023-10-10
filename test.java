@@ -1,5 +1,5 @@
 import java.util.*;     
-public class Main
+public class test
 {
   public static void main(String[] args) {
     int a[]={3,6,2,7,1,9,8,0};    
